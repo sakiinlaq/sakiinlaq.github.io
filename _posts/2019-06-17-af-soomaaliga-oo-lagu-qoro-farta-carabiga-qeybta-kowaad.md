@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
-date: "2019-06-17 01:20:13 +0200"
+date: "2019-06-17"
 ---
 
 
