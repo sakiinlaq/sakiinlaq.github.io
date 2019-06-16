@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Igu saabsan
 permalink: /about/
 ---
 
-Some information about you!
+### Waa kuma Axmed?
+Magacayga waa Axmed Cabdulqaadir, waxaan ku dhashay Muqdisho. Waxan ahay arday, af carabi ayaan ka dhigtay jaamacadda Gothenburg sanadaha 2017-2019, sidoo kale af soomaaliga xitaa waan dhigtay. Waxaan kaloo ahay macalin afka hooyo ka dhiga iskuulada magaalada Gothenburg. Horey waxaan usoo dhigtay IT. Waxaan aabo u ahay wiil, 2016dii dhashay iyo gabar 2018dii dhalatay.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Ila soo xiriir
 
-[email@domain.com](mailto:email@domain.com)
+[sakiinlaq at gmail.com](mailto:sakiinlaq@gmail.com)
