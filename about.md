@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Igu saabsan
+title: About
 permalink: /about/
 ---
 
