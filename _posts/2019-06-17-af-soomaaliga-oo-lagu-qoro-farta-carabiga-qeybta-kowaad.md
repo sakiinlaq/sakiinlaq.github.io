@@ -16,7 +16,8 @@ Maqaalkan waxaan kusoo bandhigayaa sida af soomaaliga loogu qori jiray farta car
 
 Qoraalada soomaaliga ee farta carabiga ku qoran waxaa badi qori jiray culumada diinta iyo ganacsatada. Waxayna reebi jireen qoraalo, dokumintiyo, xusuus reeb dhacdooyinka bulshada ka dhex dhaca, tusaale ahaan, xukun qaadi, heshiis ganacsi iwm.
 
-Qoraal soomaali oo far carabi ku qoran waxaa xilliyadii dooda farta taagneed loogu yeeri jiray farta wadaadka, *wadaad writings*. Afaf badan oo aan carabi ahayn ayaa lagu qoraa farta carabiga. Magacyo dhowr ah ayaa loogu yeeray farta, hadba luqadda lagu qorayo, tusaale, *kirabu*, marka af Sawaaxili lagu qorayo, *wolofal*, af-Wolof. Balse waxaa ugu caansan isticmaalka kalmada *cajami*. 
+Qoraal soomaali oo far carabi ku qoran waxaa xilliyadii dooda farta taagneed loogu yeeri jiray farta wadaadka, *wadaad writings*. Afaf badan oo aan carabi ahayn ayaa lagu qoraa farta carabiga. Magacyo dhowr ah ayaa loogu yeeray farta, hadba luqadda lagu qorayo, tusaale, *kirabu*, marka af Sawaaxili lagu qorayo, *wolofal*, af-Wolof. Balse waxaa ugu caansan isticmaalka kalmada *cajami*. *Cajami* oo micnaheedu yahay, wax aan carab ama carabi ahay. Af iyo dad aan carab/i ahayn waxaa loogu yeeraa cajam.
 
-Af carabiga xiriir qoto dheer ayuu la leeyahay Soomaalida, waxaana sabababy xiriirka dheer ee ka dhaxeeya Carabta iyo Soomaalida, gaar ahaan kuwa degan maagoolooyinka xeebta leh. Sidoo kale faafitaanka Islaamka ku faafay Afrikada Bari bilowga islaamka, hijradii koowaad ee dhulka xabashida. Taasoo ka dhigeyso in soomaalida ay xiriir iyo kalgacayl hoose kala dhaxayeeyo afka Carabiga.
+Af carabiga xiriir qoto dheer ah ayuu la leeyahay Soomaalida, waxaana sabababy xiriirka dheer ee ka dhaxeeya Carabta iyo Soomaalida, gaar ahaan kuwa degan maagoolooyinka xeebta leh. Sidoo kale faafitaanka Islaamka ku faafay Afrikada Bari bilowga islaamka, hijradii koowaad ee dhulka xabashida. Taasoo ka dhigeyso in soomaalida ay xiriir iyo kalgacayl hoose kala dhaxayeeyo afka Carabiga.
 
+>وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَرٌ لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَذَا لِسَانٌ عَرَبِيٌّ مُبِينٌ
