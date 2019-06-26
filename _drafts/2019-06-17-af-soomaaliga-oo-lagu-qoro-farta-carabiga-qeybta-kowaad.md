@@ -23,4 +23,4 @@ Af carabiga xiriir qoto dheer ah ayuu la leeyahay Soomaalida, waxaana sabababy x
 
 ## Af Soomaaliga
 
-Soomaaliga iyo Carabiga waxay kawada tirsanyihiin afafka bahda Afro aasiyatig. Carabigu waa luqadda ugu wayn afafka bahdan, halka soomaaliga uu ku jiro booska shanaad. Carabiga wuxuu lahaa taageero badan marka dooda farta ay taagneed 1950kii iyo 1960kii. Sidaas ay tahay wuxuu nidaamka militariga doo
+Soomaaliga iyo Carabiga waxay kawada tirsanyihiin afafka bahda Afro aasiyatig. Carabigu waa luqadda ugu wayn afafka bahdan, halka soomaaliga uu ku jiro booska shanaad. Carabiga wuxuu lahaa taageero badan marka dooda farta ay taagneed 1950kii iyo 1960kii. Sidaas ay tahay wuxuu nidaamka militariga af soomaaliga u dooray farta laatiinka.
