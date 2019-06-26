@@ -20,4 +20,7 @@ Qoraal soomaali oo far carabi ku qoran waxaa xilliyadii dooda farta taagneed loo
 
 Af carabiga xiriir qoto dheer ah ayuu la leeyahay Soomaalida, waxaana sabababy xiriirka dheer ee ka dhaxeeya Carabta iyo Soomaalida, gaar ahaan kuwa degan maagoolooyinka xeebta leh. Sidoo kale faafitaanka Islaamka ku faafay Afrikada Bari bilowga islaamka, hijradii koowaad ee dhulka xabashida. Taasoo ka dhigeyso in soomaalida ay xiriir iyo kalgacayl hoose kala dhaxayeeyo afka Carabiga.
 
->وَلَقَدْ نَعْلَمُ أَنَّهُمْ يَقُولُونَ إِنَّمَا يُعَلِّمُهُ بَشَرٌ لِسَانُ الَّذِي يُلْحِدُونَ إِلَيْهِ أَعْجَمِيٌّ وَهَذَا لِسَانٌ عَرَبِيٌّ مُبِينٌ
+
+## Af Soomaaliga
+
+Soomaaliga iyo Carabiga waxay kawada tirsanyihiin afafka bahda Afro aasiyatig. Carabigu waa luqadda ugu wayn afafka bahdan, halka soomaaliga uu ku jiro booska shanaad. Carabiga wuxuu lahaa taageero badan marka dooda farta ay taagneed 1950kii iyo 1960kii. Sidaas ay tahay wuxuu nidaamka militariga doo
