@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Soo dhowaada
-date: 2019-06-17
+date: 2019-06-16
 ---
 
 **Asalamu Calaykum!**
