@@ -2,6 +2,7 @@
 layout: post
 title: Soo dhowaada
 date: 2019-06-16
+comments: false
 ---
 
 **Asalamu Calaykum!**
