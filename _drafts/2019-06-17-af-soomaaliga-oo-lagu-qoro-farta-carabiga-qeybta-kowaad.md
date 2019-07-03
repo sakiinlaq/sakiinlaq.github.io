@@ -4,7 +4,6 @@ title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
 date: "2019-06-17"
 ---
 
-
 ## Hordhac
 Qoraalkaan wuxuu hordhac u yahay qoraal taxane ah oo ana kusoo bandhigi doono boggeygan. Waxaan uga hadli doonaa sida loo qori jiray af soomaaliga iyadoo la isticmaalayo farta carabiga, inta aan la rasmiyeyn ku qoridda farta laatiinka. Maqaalkan wuxuu ku tiirsanyahay *thesis* aan qoray qeybta hore ee sanadka 2019. Wuxuu ku qoranyahay af-iswiidhish, waxaana ku dhigtay maadada carabiga oo qayb ka ah machadka suugaanta iyo luqadda ee jaamacadda Gothenburg. Thesis-ka waxaa cinwaankuusu af-iswiidhishku ku yahay *Somaliska med arabisk skrift: en språkhistorisk studie*, af-Ingiriisna ku yahay *Somali with Arabic writing: An historical study of a language*
 
@@ -23,4 +22,6 @@ Af carabiga xiriir qoto dheer ah ayuu la leeyahay Soomaalida, waxaana sabababy x
 
 ## Af Soomaaliga
 
-Soomaaliga iyo Carabiga waxay kawada tirsanyihiin afafka bahda Afro aasiyatig. Carabigu waa luqadda ugu wayn afafka bahdan, halka soomaaliga uu ku jiro booska shanaad. Carabiga wuxuu lahaa taageero badan marka dooda farta ay taagneed 1950kii iyo 1960kii. Sidaas ay tahay wuxuu nidaamka militariga af soomaaliga u dooray farta laatiinka.
+Soomaaliga iyo Carabiga waxay kawada tirsanyihiin afafka bahda Afro aasiyatig. Carabigu waa luqadda ugu wayn afafka bahdan, halka soomaaliga uu ku jiro booska shanaad. Carabiga wuxuu lahaa taageero badan marka dooda farta ay taagneed 1950kii iyo 1960kii. Sidaas ay tahay wuxuu nidaamka militariga af soomaaliga u dooray farta laatiinka bilowga 1970-kii.
+
+Alfabeetada soomaaliga ee ku qoran farta laatiinka waxay ka koobantahay 22 shibbane iyo 10 shaqal, shan shaqal gaaban iyo shan shaqal dheer. Af soomaaliga wuxuu leeyahay labo shibbane /g/ iyo /dh/ iyo 4 shaqall, /e/, /ee/, /o/ iyo /oo/ oo uusan carabigu lahayn. Waxaa jiro cod/dhawaqyo dheeraad ah oo ay leeyihiin shibbane iyo shaqal walbo. Xarafka b codad kala duwan ayuu leeyahay hadba xarafka halka uu kaga jiro ereyga. Marka uu u dhexeeyo labo shaqal waa [β] oo u cod dhow ///p/ af ingiriiska. Tusaale ahaan, [*baaβuur*], mararka qaar marka /b/ uu ereyga ku dhamaanayo wuxuu noqdaa /p/, tusaale [*sap*]. Sidaa oo kale waxaa ah /g/ iyo /d/. Marka /g/ iyo /d/ ayaa u dhaxeeyaan shaqallo, waxay noqdaan غ iyo ذ, tusaale *magac*, *badar*.  
