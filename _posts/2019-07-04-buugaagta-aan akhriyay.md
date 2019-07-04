@@ -9,5 +9,5 @@ permalink: /buugaag/
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay ama akhrinayo.
 
-## 2019
+### 2019
 *Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen*, qoraa Cabdi Ismaaciil Samatar.

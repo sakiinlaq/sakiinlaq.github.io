@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 ### Waa kuma Axmed?
-Magacayga waa Axmed Cabdulqaadir, waxaan ku dhashay Muqdisho. Waxan ahay arday, af carabi ayaan ka dhigtay jaamacadda Gothenburg sanadaha 2017-2019, sidoo kale af soomaaliga xitaa waan dhigtay. Waxaan kaloo ahay macalin afka hooyo ka dhiga iskuulada magaalada Gothenburg. Horey waxaan usoo dhigtay IT. Waxaan aabo u ahay wiil, 2016dii dhashay iyo gabar 2018dii dhalatay.
+Axmed Cabdulqaadir, ku dhashay Muqdisho. Waxaan ahay aabo (wiil iyo gabar), arday (afcilmiyeedka iyo IT), macallin.
+
+Buugaagta aan akhriyay/akhrinayo [halkan](https://sakiinlaq.github.io/buugaagta-aan-akhriyay/) kala soco
 
 ### Ila soo xiriir
 
