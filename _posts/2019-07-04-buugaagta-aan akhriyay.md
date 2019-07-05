@@ -7,9 +7,10 @@ date: 2019-07-04
 permalink: /buugaag/
 ---
 
-Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay ama akhrinayo.
+Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
 
 ### 2019
+
 #### Akhrinayaa
 
 **Af-Ingiriis**
