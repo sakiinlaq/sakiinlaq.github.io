@@ -12,5 +12,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay ama akhrinayo.
 ### 2019
 #### Akhrinayaa
 
-**Ingiriis**
-[*Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen*, qoraa: Cabdi Ismaaciil Samatar.](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq)
+**Af-Ingiriis**
+[*Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen*, Cabdi Ismaaciil Samatar](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq)
+
+**Af-Iswiidhish**
+[*De kommer att drunkna i sina mödrars tårar*](https://books.google.se/books?id=cXIvDgAAQBAJ)
