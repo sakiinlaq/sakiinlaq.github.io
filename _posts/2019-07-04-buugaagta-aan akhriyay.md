@@ -13,8 +13,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 #### Akhrinayaa
 
-**Af-Ingiriis**  
+**Af-Ingiriis**<br/> 
 [*Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen*, Cabdi Ismaaciil Samatar](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq)
 
-**Af-Iswiidhish**  
+**Af-Iswiidhish**<br/>
 [*De kommer att drunkna i sina mödrars tårar*](https://books.google.se/books?id=cXIvDgAAQBAJ)
