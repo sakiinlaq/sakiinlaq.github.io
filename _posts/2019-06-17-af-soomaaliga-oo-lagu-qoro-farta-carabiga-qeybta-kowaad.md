@@ -41,6 +41,6 @@ Qoraaga koowaaad waa Sheekh Uways al-Barawi oo qoray saddex gabay, mid waxaa lah
 
 Qoraaga ku xiga waa J. S. King oo qoray maqaalo taxane ah oo ku soo baxay jariidada *Indian Antiquary, A journal of oriental research*. Maqaaladan waxaa loogu tala galay saraakiisha gumeystaha ee danaynaya barashada Af-Soomaaliga. 
 
-Qoraalka kale waa buug lagu magacaabo *Inšāʾ al makātibāt al ʿarabiyyah fīl-luġah as-Sūmāliyyah*، 1932 oo uu qoray Maxamed Cabdi Makaahiil. Buuga hordhaciisu wuxuu ku qoranyahay af carabi lagu sharxayo ujeedka buugga. Waxaa ku qoran shan fariin oo ay isu weydaarsanayaan dad kala deggan Cadan iyo Berbera, buugga waxaa uu yaalaa Maktabadda jaamacadda Indiana University ee ku taala Maraykanka. Waxaan isagoo dhamaystiran laga heli karaa buugga *Far tasawday: Far Soomaalidii u horreysey ee reer Soomaalilayn*. 
+Qoraalka kale waa buug lagu magacaabo *انشاء المكاتبات العربية في اللغة الصومالية* ,1932 oo uu qoray Maxamed Cabdi Makaahiil. Buuga hordhaciisu wuxuu ku qoranyahay af carabi lagu sharxayo ujeedka buugga. Waxaa ku qoran shan fariin oo ay isu weydaarsanayaan dad kala deggan Cadan iyo Berbera, buugga waxaa uu yaalaa Maktabadda jaamacadda Indiana University ee ku taala Maraykanka. Waxaan isagoo dhamaystiran laga heli karaa buugga *Far tasawday: Far Soomaalidii u horreysey ee reer Soomaalilayn*. 
 
 Qoraalka ugu danbeeya wuxuu ka koobanyahay toban maahmaahood oo uu qoray Muuse Xaaji Ismaaciil Galaal, si uu ugu tusaaleey farta carabiga ee uu ku taliyay in la qaato.
