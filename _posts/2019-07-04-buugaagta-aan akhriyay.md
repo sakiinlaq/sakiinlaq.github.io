@@ -3,7 +3,7 @@ title: "Buugaagta aan akhriyey"
 layout: post
 comments: false
 published: true
-date: 2019-07-04
+date: 2019-07-08
 permalink: /buugaag/
 ---
 
