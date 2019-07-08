@@ -11,10 +11,14 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 ### 2019
 
-#### Akhrinayaa
+#### Akhrinayaa hadda
 
-**Af-Ingiriis**<br/> 
-[*Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen*, Cabdi Ismaaciil Samatar](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq)
+[Taariikhda Afka iyo Bulshada Soomaaliyeed, Cabdalla C. Mansuur](https://books.google.se/books?id=vABdswEACAAJ) _Af-Soomaali_
 
-**Af-Iswiidhish**<br/>
-[*De kommer att drunkna i sina mödrars tårar*](https://books.google.se/books?id=cXIvDgAAQBAJ)
+ 
+
+[Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen, Cabdi Ismaaciil Samatar](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq) _Af-Ingiriis_
+
+
+
+[De kommer att drunkna i sina mödrars tårar](https://books.google.se/books?id=cXIvDgAAQBAJ) _Af-Iswiidhish_
