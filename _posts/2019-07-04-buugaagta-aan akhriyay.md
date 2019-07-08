@@ -18,4 +18,8 @@ Taariikhda Afka iyo Bulshada Soomaaliyeed, Cabdalla C. Mansuur, [link](https://b
 Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen, Cabdi Ismaaciil Samatar, [link](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq) _Af-Ingiriis_
 
 
+ كشف السدود عن تاريخ الصومال ومماليكهم السبعة، احمد عبدالله ريراش [link](http://hdl.handle.net/2307/3037) _af-Carabi_
+
+
+
 De kommer att drunkna i sina mödrars tårar, [link](https://books.google.se/books?id=cXIvDgAAQBAJ) _Af-Iswiidhish_
