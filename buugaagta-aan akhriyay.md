@@ -2,27 +2,26 @@
 layout: page
 title: Buugaagta
 permalink: /buugaag/
----
-
-Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
-
-<!---
-### 2019
-
-#### Akhrinayaa hadda
-
-{% for sanad in page.sanadakhris %}
- <div class="sanadakhris"></div>
- {%for buug in  site.data.buugaag %}
- 	{% if buug.sanadkhris==sanad%}
- 	<h2>sanad</h2>
- 		<p>{{ buug.title }}, qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br><a href={{ buug.link }}>link</a>  </p>
-
-   sanadakhris: 
+sanadakhris: 
 		- 2019
 		- 2020
 		- 2021
 		- 2022
+---
+
+Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
+
+
+
+#### Akhrinayaa hadda
+
+{% for sanad in page.sanadakhris %}
+ {%for buug in  site.data.buugaag %}
+ 	{% if buug.sanadkhris==sanad%}
+ 	<h2>sanad</h2>
+ 		<p>{{ buug.title }}, qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br><a href={{ buug.link }}>link</a>  </p>
+<!---
+   
 	{% endif %}
 	{% endfor %}
 	{% endfor %}
