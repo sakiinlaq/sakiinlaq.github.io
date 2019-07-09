@@ -1,9 +1,6 @@
 ---
-title: "Buugaagta aan akhriyey"
 layout: page
-comments: false
-published: true
-date: 2019-07-08
+title: Buugaagta aan akhriyey
 permalink: /buugaag/
 ---
 
