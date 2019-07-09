@@ -6,6 +6,7 @@ permalink: /buugaag/
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
 
+<!---
 ### 2019
 
 #### Akhrinayaa hadda
@@ -26,7 +27,6 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 	{% endfor %}
 	{% endfor %}
 
-<!---
 ## Publications
 
 {% for pubyear in page.pubyears %}
