@@ -2,11 +2,6 @@
 layout: page
 title: Buugaagta
 permalink: /buugaag/
-sanadakhris: 
-		- 2019
-		- 2020
-		- 2021
-		- 2022
 ---
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
@@ -22,7 +17,11 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
  	<h2>sanad</h2>
  		<p>{{ buug.title }}, qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br><a href={{ buug.link }}>link</a>  </p>
 
-   
+   sanadakhris: 
+		- 2019
+		- 2020
+		- 2021
+		- 2022
 	{% endif %}
 	{% endfor %}
 	{% endfor %}
