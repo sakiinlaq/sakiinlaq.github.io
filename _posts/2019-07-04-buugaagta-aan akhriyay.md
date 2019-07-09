@@ -16,7 +16,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 {% for buug in site.data.buugaag %}
     
-      {{ buugaag.title }}, {{ buugaag.author}}, [link]{{ buugaag.link }} _{{ buugaag.lang }}_ 
+      {{ buug.title }}, {{ buug.author}}, [link]{{ buug.link }} _{{ buug.lang }}_ 
     
 {% endfor %}
 
