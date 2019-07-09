@@ -27,7 +27,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 	{% endfor %}
 	{% endfor %}
 
-
+<!---
 ## Publications
 
 {% for pubyear in page.pubyears %}
@@ -40,18 +40,18 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 {{ publication.ref | markdownify | remove: '<p>' | remove: '</p>' }}
 <details style="margin-top: -.7em; margin-left: 1em">
 <summary>
-<!-- abstract --> {% if publication.abstract %}
+ abstract {% if publication.abstract %}
  <a>abstract</a>
  {% else %}
  <span style="color: $gray"> abstract </span>
 {% endif %} |
-<!-- pdf -->
+ pdf -
 {% if publication.pdf %}
  <a href="{{ publication.pdf }}">pdf</a>
   {% else %} 
   <span style="color: $gray">pdf</span>
 {% endif %} |
-<!-- link -->
+ link 
 {% if publication.link %}
  <a href="{{ publication.link }}">link</a>
  {% else %}
@@ -86,20 +86,20 @@ These documents are subject to continuous tinkering. The latest version can alwa
   {{ docpost.documenttitle }}
   {% else %}
   {{ docpost.title }}
-{% endif %}<!--
--->{% if docpost.lang == 'sv'%}
+{% endif %}<
+--{% if docpost.lang == 'sv'%}
 <span class="date">(Swedish)</span>
 {% endif %}<br>
 <span class="publink">[pdf]({{ docpost.document }}) | [Blog post]({{ site.url }}{{ docpost.url }})</span>
-<!-- <span class="date"> -->
-<!-- &emsp;{% for tag in docpost.tags %} -{{tag}}{% endfor %} -->
-<!-- </span> -->
+<!- <span class="date"> 
+<! &emsp;{% for tag in docpost.tags %} -{{tag}}{% endfor %} -
+<- </span> --
 
 
 {% endif %}
 {% endfor %}
 
-<!---
+<--
 Taariikhda Afka iyo Bulshada Soomaaliyeed, Cabdalla C. Mansuur, [link](https://books.google.se/books?id=vABdswEACAAJ) _Af-Soomaali_
 
 Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen, Cabdi Ismaaciil Samatar, [link](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq) _Af-Ingiriis_
