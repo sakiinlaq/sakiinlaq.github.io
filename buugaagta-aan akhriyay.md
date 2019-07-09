@@ -14,13 +14,15 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 
 #### Akhrinayaa hadda
-
 {% for sanad in page.sanadakhris %}
+ 	<h2>sanad</h2>
+<!---
+
  {%for buug in  site.data.buugaag %}
  	{% if buug.sanadkhris==sanad%}
  	<h2>sanad</h2>
  		<p>{{ buug.title }}, qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br><a href={{ buug.link }}>link</a>  </p>
-<!---
+
    
 	{% endif %}
 	{% endfor %}
