@@ -1,6 +1,6 @@
 ---
 title: "Buugaagta aan akhriyey"
-layout: post
+layout: page
 comments: false
 published: true
 date: 2019-07-08
@@ -15,10 +15,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 
 {% for buug in site.data.buugaag %}
- 
-     {{ buug.title }}
-
-     {{ buug.author}}
+ <div class="year"></div>
+   <p>{{ buug.title }}</p>,{{ buug.author}}
 
      [link]({{ buug.link }}) _{{ buug.lang }}_ 
     
