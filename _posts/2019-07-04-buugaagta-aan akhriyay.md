@@ -16,12 +16,13 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 {% for buug in site.data.buugaag %}
  <div class="year"></div>
-   <p>{{ buug.title }}</p>,{{ buug.author}}
+  <p>{{ buug.title }}, {{ buug.author}} [link]({{ buug.link }}) _{{ buug.lang }}_ 
+    </p>
 
-     [link]({{ buug.link }}) _{{ buug.lang }}_ 
-    
+     
 {% endfor %}
 
+<!---
 Taariikhda Afka iyo Bulshada Soomaaliyeed, Cabdalla C. Mansuur, [link](https://books.google.se/books?id=vABdswEACAAJ) _Af-Soomaali_
 
 Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen, Cabdi Ismaaciil Samatar, [link](https://books.google.se/books?id=4Yt2DQAAQBAJ&dq) _Af-Ingiriis_
@@ -32,3 +33,5 @@ Africa’s First Democrats: Somalia’s Aden A. Osman and Abdirazak H. Hussen, C
 
 
 De kommer att drunkna i sina mödrars tårar, [link](https://books.google.se/books?id=cXIvDgAAQBAJ) _Af-Iswiidhish_
+
+-->
