@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Buugaagta aan akhriyey
+title: Buugaagta
 permalink: /buugaag/
 ---
 
@@ -9,7 +9,6 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 ### 2019
 
 #### Akhrinayaa hadda
-
 
 {% for buug in site.data.buugaag %}
  <div class="year"></div>
