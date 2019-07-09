@@ -16,7 +16,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 {% for buug in site.data.buugaag %}
  <div class="year"></div>
-  <p>{{ buug.title }}, {{ buug.author}} [link]({{ buug.link }}) _{{ buug.lang }}_ 
+ <p>{{ buug.title }}, {{ buug.author}} [link]({{ buug.link }}) _{{ buug.lang }}_ 
     </p>
 
      
