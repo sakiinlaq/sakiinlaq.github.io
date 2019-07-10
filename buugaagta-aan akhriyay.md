@@ -10,14 +10,12 @@ sanadakhris:
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
 
 
-
 #### Akhrinayaa hadda
 
-{%for buug in site.data.buugaag %}
-<p>{{ buug.title }}</p> 
-
-{% endfor %}
 <!--
+{%for buug in site.data.buugaag %}
+	<p>{{ buug.title }}</p> 
+{% endfor %}
 	qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br></p>
 
    
