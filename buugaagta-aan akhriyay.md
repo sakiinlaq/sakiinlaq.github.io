@@ -17,7 +17,10 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==sanad and buug.akhriyay==false %}
 
-{{ buug.title }}, {{buug.author}}, {{ buug.lang }}
+
+{{ buug.author }} ({{ buug.year }}). 
+<i>{{ buug.title }}</i>. <span> {{ buug.lang }}</span>
+
 
 {% endif %}
 {% endfor %}
