@@ -1,7 +1,6 @@
 
 <!--
-{%for buug in site.data.buugaag %}
-	<p>{{ buug.title }}</p> 
+
 {% endfor %}
 	qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br></p>
 
