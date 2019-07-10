@@ -13,6 +13,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% for sanad in page.sanadakhris %}
 {% if sanad and buug.akhriyay==false %}
 
+{% elseif %}
+
 <h3>{{ sanad }}</h3>
 {% endif %}
 
@@ -29,6 +31,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% for sanad in page.sanadakhris %}
 
 {% if sanad and buug.akhriyay %}
+
+{% elseif %}
 <h3>{{ sanad }}</h3>
 {% endif %}
 
