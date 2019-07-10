@@ -3,7 +3,7 @@ layout: post
 title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
 date: "2019-06-17"
 comments: false
-published: false
+published: true
 ---
 
 ## Hordhac
