@@ -13,8 +13,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 
 #### Akhrinayaa hadda
 
- {%for buug in site.data.buugaag %}
- 		<p>{{ buug.title }}, qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br><a href={{ buug.link }}>link</a>  </p>
+{%for buug in site.data.buugaag %}
+<p>{{ buug.title }}, qoraa {{ buug.author}} &emsp;<span class="date">{{ buug.lang }}</span> <br><a href={{ buug.link }}>link</a></p>
 
    
 	{% endfor %}
