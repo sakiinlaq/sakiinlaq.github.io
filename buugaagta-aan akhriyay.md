@@ -16,15 +16,12 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 <p>Buugaagta aan akhriyay</p>
 {% if buug.akhriyay %}
 
-{% if buug.sanadakhris==sanad  %}
 <h2>{{ sanad }}</h2>
+{% if buug.sanadakhris==sanad  %}
 
-{{ buug.title }}, {{ buug.lang }}, {{buug.author}}
+{{ buug.title }}, {{buug.author}}, {{ buug.lang }}
 {% endif %}
 
-{% elseif %}
-
-{{ buug.title }}, {{ buug.lang }}, {{buug.author}}
 
 {% endif %}
 {% endfor %}
