@@ -9,6 +9,6 @@ sanadakhris:
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
 
-{%for buug in site.data.buugaag %}
+{% for buug in site.data.buugaag %}
 	<p>{{ buug.title }}</p> 
 
