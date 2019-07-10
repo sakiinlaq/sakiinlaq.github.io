@@ -6,9 +6,10 @@ permalink: /buugaag/
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay waqtigii lasoo dhaafay.
 
+<p>Buugaagta aan akhriyay</p>
+
 {% for buug in site.data.buugaag %}
 
-<p>Buugaagta aan akhriyay</p>
 {% if buug.akhriyay %}
 
 <h2>{{ buug.sanadakhris }}</h2>
@@ -18,5 +19,4 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% endif %}
 
 
-{% endfor %}
 {% endfor %}
