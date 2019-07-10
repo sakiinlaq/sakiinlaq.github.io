@@ -13,7 +13,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 <h2>{{ sanad }}</h2>
 
 {% for buug in site.data.buugaag %}
-{% if buug.sanadakhris==sanad and buug.akhriyay%}
+{% if buug.sanadakhris==sanad and buug.akhriyay %}
 
 {{ buug.title }}, {{buug.author}}, {{ buug.lang }}
 {% endif %}
