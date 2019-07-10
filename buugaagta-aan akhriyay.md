@@ -9,8 +9,23 @@ sanadakhris:
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay waqtigii lasoo dhaafay.
 
+
+## Buugaagta aan hadda akhrinayo:
 {% for sanad in page.sanadakhris %}
-<h2>{{ sanad }}</h2>
+<h3>{{ sanad }}</h2>
+
+{% for buug in site.data.buugaag %}
+{% if buug.sanadakhris==sanad and buug.akhriyay==false %}
+
+{{ buug.title }}, {{buug.author}}, {{ buug.lang }}
+
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+## Buugaagta aan akhriyay:
+{% for sanad in page.sanadakhris %}
+<h3>{{ sanad }}</h2>
 
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==sanad and buug.akhriyay %}
