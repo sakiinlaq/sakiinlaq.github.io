@@ -11,7 +11,10 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 
 ## Buugaagta aan hadda akhrinayo:
 {% for sanad in page.sanadakhris %}
+{% if sanad and buug.akhriyay==false %}
+
 <h3>{{ sanad }}</h3>
+{% endif %}
 
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==sanad and buug.akhriyay==false %}
@@ -24,7 +27,10 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 
 ## Buugaagta aan akhriyay:
 {% for sanad in page.sanadakhris %}
+
+{% if sanad and buug.akhriyay %}
 <h3>{{ sanad }}</h3>
+{% endif %}
 
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==sanad and buug.akhriyay %}
