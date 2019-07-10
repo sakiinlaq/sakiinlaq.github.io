@@ -10,9 +10,9 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 
 {% for sanad in page.sanadakhris %}
 {% for buug in site.data.buugaag %}
-{% if buug.sanadakhris==sanad and buug.akhriyay %}
 <p> Buugaagta aan akhriyay
 <h2>{{ sanad }}</h2>
+{% if buug.sanadakhris==sanad and buug.akhriyay %}
 
 {{ buug.title }}, {{ buug.lang }}, {{buug.author}}
 {% else %}
