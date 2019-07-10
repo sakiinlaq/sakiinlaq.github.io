@@ -9,20 +9,16 @@ sanadakhris:
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay waqtigii lasoo dhaafay.
 
 {% for sanad in page.sanadakhris %}
-<div class="sanad">{{ sanad }}</div>
-{% for buug in site.data.buugaag_akhrinayo %}
-{% if buug.sanadakhris==sanad %}
+{% for buug in site.data.buugaag %}
+{% if buug.sanadakhris==sanad and buug.akhriyay %}
+<p> Buugaagta aan akhriyay
+<h2>{{ sanad }}</h2>
 
 {{ buug.title }}, {{ buug.lang }}, {{buug.author}}
+{% else %}
 
-{% endif %}
-{% endfor %}
-{% endfor %}
-
-{% for sanad in page.sanadakhris %}
-<div class="sanad">{{ sanad }}</div>
-{% for buug in site.data.buugaag_akhriyay %}
-{% if buug.sanadakhris==sanad %}
+<p> Buugaagta aan hadda akhrinayo
+<h2>{{ sanad }}</h2>
 
 {{ buug.title }}, {{ buug.lang }}, {{buug.author}}
 
