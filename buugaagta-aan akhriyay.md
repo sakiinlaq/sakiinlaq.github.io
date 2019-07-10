@@ -16,6 +16,9 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% if buug.sanadakhris==sanad %}
 
 {{ buug.title }}, {{buug.author}}, {{ buug.lang }}
+{if buug.akhriyay}
+<em>Hadda ayaan akhrinayaa</em>
+{% endif%}
 
 {% endif %}
 {% endfor %}
