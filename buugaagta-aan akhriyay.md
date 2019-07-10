@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buugaagta
-permalink: /buugaag
+permalink: /buugaag/
 sanadakhris: 
 - 2019
 - 2020
