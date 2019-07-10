@@ -4,6 +4,7 @@ title: Buugaagta
 permalink: /buugaag/
 sanadakhris: 
 - 2019
+-2020
 ---
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
@@ -12,3 +13,4 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 {% for buug in site.data.buugaag %}
 	<p>{{ buug.title }}</p> 
 
+{% endfor %}
