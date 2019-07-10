@@ -15,10 +15,10 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==sanad %}
 
-{{ buug.title }}, {{buug.author}}, {{ buug.lang }}
+{{ buug.title }}, {{buug.author}}, {{ buug.lang }}<span>
 {% if buug.akhriyay %}
-<span><em>Hadda ayaan akhrinayaa</em></span>
-{% endif %}
+<em>Hadda ayaan akhrinayaa</em>
+{% endif %}</span>
 
 {% endif %}
 {% endfor %}
