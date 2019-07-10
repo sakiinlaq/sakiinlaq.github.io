@@ -13,6 +13,9 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==page.sanadakhris %}
 <h2> {{buug.sanadakhris}}
+
 {{ buug.title }} &emsp; <span class="date">{{ buug.lang }}</span> <br>
 {{buug.author}} <a href="{{buug.link}}"></a>
+
+{% endif %}
 {% endfor %}
