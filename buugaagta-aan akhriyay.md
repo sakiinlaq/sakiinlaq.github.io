@@ -9,13 +9,13 @@ sanadakhris:
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay ama aan akhrinayo hadda.
 
-
+{% for sanad in page.sanadakhris %}
+<div class="sanad">{{ sanad }}</div>
 {% for buug in site.data.buugaag %}
-{% if buug.sanadakhris==page.sanadakhris %}
-<h2> {{buug.sanadakhris}}
-
-{{ buug.title }} &emsp; <span class="date">{{ buug.lang }}</span> <br>
-{{buug.author}} <a href="{{buug.link}}"></a>
+{% if buug.sanadakhris==sanad %}
+<h2> {{buug.sanadakhris}}</h2>
+{{ buug.lang }}, {{buug.author}}
 
 {% endif %}
+{% endfor %}
 {% endfor %}
