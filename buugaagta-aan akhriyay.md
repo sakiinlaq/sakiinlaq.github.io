@@ -17,7 +17,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 
 {{ buug.title }}, {{buug.author}}, {{ buug.lang }}<span>
 {% if buug.akhriyay %}
-<em>Hadda ayaan akhrinayaa</em>
+Hadda ayaan akhrinayaa</em>
 {% endif %}</span>
 
 {% endif %}
