@@ -13,8 +13,8 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhriyay waqtigii lasoo dhaafay a
 <div class="sanad">{{ sanad }}</div>
 {% for buug in site.data.buugaag %}
 {% if buug.sanadakhris==sanad %}
-<h2> {{buug.sanadakhris}}</h2>
-{{ buug.lang }}, {{buug.author}}
+
+{{ buug.title }}, {{ buug.lang }}, {{buug.author}}
 
 {% endif %}
 {% endfor %}
