@@ -4,21 +4,25 @@ title: Buugaagta
 permalink: /buugaag/
 sanadakhris: 
 - 2019
+- 2020
 ---
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay waqtigii lasoo dhaafay.
 
 {% for sanad in page.sanadakhris %}
+
 {% for buug in site.data.buugaag %}
-<p> Buugaagta aan akhriyay
+
+<p>Buugaagta aan akhriyay</p>
+{% if buug.akhriyay %}
+
+{% if buug.sanadakhris==sanad  %}
 <h2>{{ sanad }}</h2>
-{% if buug.sanadakhris==sanad and buug.akhriyay %}
 
 {{ buug.title }}, {{ buug.lang }}, {{buug.author}}
-{% else %}
+{% endif %}
 
-<p> Buugaagta aan hadda akhrinayo
-<h2>{{ sanad }}</h2>
+{% elseif %}
 
 {{ buug.title }}, {{ buug.lang }}, {{buug.author}}
 
