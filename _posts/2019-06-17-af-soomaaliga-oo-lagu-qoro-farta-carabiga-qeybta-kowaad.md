@@ -1,17 +1,16 @@
 ---
 layout: post
 title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
-date: "2019-06-17"
+date: "2019-07-29"
 comments: false
 published: true
 ---
 
-## Hordhac
-Qoraalkaan wuxuu hordhac u yahay qoraal taxane ah oo ana kusoo bandhigi doono boggeygan. Waxaan uga hadli doonaa sida loo qori jiray af soomaaliga iyadoo la isticmaalayo farta carabiga, inta aan la rasmiyeyn ku qoridda farta laatiinka. Maqaalkan wuxuu ku tiirsanyahay *thesis* aan qoray qeybta hore ee sanadka 2019. Wuxuu ku qoranyahay af-iswiidhish, waxaana ku dhigtay maadada carabiga oo qayb ka ah machadka suugaanta iyo luqadda ee jaamacadda Gothenburg. Thesis-ka waxaa cinwaankuusu af-iswiidhishku ku yahay *Somaliska med arabisk skrift: en språkhistorisk studie*, af-Ingiriisna ku yahay *Somali with Arabic writing: An historical study of a language*
+Qoraalkaan wuxuu hordhac u yahay qoraal taxane ah oo aan kusoo bandhigi doono boggeygan. Waxaan uga hadli doonaa sida loo qori jiray af soomaaliga iyadoo la isticmaalayo farta carabiga, inta aan la rasmiyeyn ku qoridda farta laatiinka. Maqaalkan wuxuu ku tiirsanyahay *thesis* aan qoray qeybta hore ee sanadka 2019, Wuxuu ku qoranyahay af-iswiidhish. Waxaan qoray mar aan dhiganayay maadada carabiga oo qayb ka ah machadka suugaanta iyo luqadda ee jaamacadda Gothenburg. Thesis-ka waxaa cinwaankuusu af-iswiidhishku ku yahay *Somaliska med arabisk skrift: en språkhistorisk studie*, af-Ingiriisna ku yahay *Somali with Arabic writing: An historical study of a language*
 
-Af soomaaliga waxuu far rasmi ah helay 1972, sidoo kalena noqday marka ugu horeysay af rasmi ka ah Jamhuuriydda Soomaaliya. Isku dayo badan ka dib ayaa waxaa la qaatay farta laatiinka. Carabiga wuxuu ka mid ahaa faraha loolanka ugu jiray in lagu qoro afka soomaaliga. Af soomaaliga waxaa looga hadlaa Soomaaliya (Soomaalilan ku jirto), Itoobiya, Kenya iyo Jabuuti. Soomaaliya iyo Jabuuti waxaa u dheer Carabiga oo af rasmi ka ah wadanka. Dagaaladii sokeeye ee ka dhacay Soomaaliya waxay keeneen in dad badan ay u haajiraana Yurub iyo Amerika. Kanada, Mareekanka, Ingiriiska, Talyaaniga, Iswiidhan iyo wadamo badan ayaa loogaa hadlaa af-Soomaaliga.
+Af soomaaliga waxuu far rasmi ah helay 1972, sidoo kalena noqday marka ugu horeysay af rasmi ka ah Jamhuuriydda Soomaaliya. Isku dayo badan ka dib ayaa waxaa la qaatay farta laatiinka. Carabiga wuxuu ka mid ahaa faraha loolanka ugu jiray in lagu qoro afka soomaaliga. Af soomaaliga waxaa looga hadlaa Soomaaliya (Soomaaliland ku jirto), Itoobiya, Kenya iyo Jabuuti. Soomaaliya iyo Jabuuti waxaa u dheer Carabiga oo af rasmi ka ah. Dagaaladii sokeeye ee ka dhacay Soomaaliya waxay keeneen in dad badan ay u haajiraana Yurub iyo Amerika. Kanada, Mareekanka, Ingiriiska, Talyaaniga, Iswiidhan iyo wadamo badan ayaa loogaa hadlaa af-Soomaaliga.
 
-Maqaalkan waxaan kusoo bandhigayaa sida af soomaaliga loogu qori jiray farta carabiga. Waxaa jira cod/foniim soomaaliga ku jira oo aan carabiga ku jirin, lahaynna xaraf ku haboon. Codadka shibbanaha waxay kala yihiin kuwa laatiinka ku matalo /g/ tusaale *gabar* iyo /dh/ tusaale *dhabar*. Sidoo kale carabiga malahan shaqalada kala ah, /e/ tusaale *eber*, /ee/ tusaale *dheer*, /o/ tusaale *nolol* iyo /oo/ tusaale *doon*. Waxaan ku baaray thesis-keyga sida laga loo qori jiray codadka/dhawaqa ku jira soomaaliga balse carabiga ku jirin.
+Maqaalkan waxaan kusoo bandhigayaa sida af soomaaliga loogu qori jiray farta carabiga. Waxaa jira cod/foniim soomaaliga ku jira oo aan carabiga ku jirin, lahaynna xaraf ku haboon. Codadka shibbanaha waxay kala yihiin /g/ tusaale *gabar* iyo /dh/ tusaale *dhabar*. Sidoo kale carabiga malahan shaqalada kala ah, /e/ tusaale *eber*, /ee/  *dheer*, /o/  *nolol* iyo /oo/  *doon*. Waxaan ku baaray thesis-keyga sida loo qori jiray codadka/dhawaqa ku jira soomaaliga balse carabiga ku jirin.
 
 ## Taariikh
 
@@ -26,7 +25,7 @@ Af carabiga xiriir qoto dheer ah ayuu la leeyahay Soomaalida, waxaana sababay xi
 Dad kala duwan ayaa suugaantooda iyo halabuurkooda soomaaliga ku qoray far carbeedka. Halgamaaga wayn ee Maxamed Cabdulle Xasan ayaa ka mid ah. Sheekh Jaamac Cumar Ciise wuxuu qorayay buug magaciisu yahay *Diiwaanka gabayadii Sayid Maxamed Cabdulle Xasan, Ururintii koowaad*. Aruurinta gabayga wuxuu bilaabayay 1954 oo ahayd 18 sano ka hor inta aan Af-Soomaaliga far rasmi ah helin. Sheekh Jaamac wuxuu ku qorty farta carabiga. Markii farta laatiinka la qaatay bilowgii 1972dii, ayaa isagoo kaashanaya Axmed Faarax Idaajaa kasoo minguuriyeen farta carabiga.
 
 
-## Af Soomaaliga
+## Af Soomaaliga iyo af Carabiga
 
 Soomaaliga iyo Carabiga waxay kawada tirsanyihiin afafka bahda Afro aasiyatig. Carabigu waa luqadda ugu wayn afafka bahdan, halka soomaaliga uu ku jiro booska shanaad. Carabiga wuxuu lahaa taageero badan marka dooda farta ay taagneed 1950kii iyo 1960kii. Sidaas ay tahay wuxuu nidaamka militariga af soomaaliga u dooray farta laatiinka bilowga 1970-kii.
 
