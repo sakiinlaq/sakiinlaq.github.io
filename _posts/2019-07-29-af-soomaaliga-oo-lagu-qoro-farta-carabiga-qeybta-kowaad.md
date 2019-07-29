@@ -4,7 +4,7 @@ title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
 date: "2019-07-29"
 comments: false
 published: true
-thumnail: /images/sheekh_makaahiil.jpg
+thumbnail: /images/sheekh_makaahiil.jpg
 ---
 
 Qoraalkaan wuxuu hordhac u yahay qoraal taxane ah oo aan kusoo bandhigi doono boggeygan. Waxaan uga hadli doonaa sida loo qori jiray af soomaaliga iyadoo la isticmaalayo farta carabiga, inta aan la rasmiyeyn ku qoridda farta laatiinka. Maqaalkan wuxuu ku tiirsanyahay *thesis* aan qoray qeybta hore ee sanadka 2019, Wuxuu ku qoranyahay af-iswiidhish. Waxaan qoray mar aan dhiganayay maadada carabiga oo qayb ka ah machadka suugaanta iyo luqadda ee jaamacadda Gothenburg. Thesis-ka waxaa cinwaankuusu af-iswiidhishku ku yahay *Somaliska med arabisk skrift: en språkhistorisk studie*, af-Ingiriisna ku yahay *Somali with Arabic writing: An historical study of a language*
