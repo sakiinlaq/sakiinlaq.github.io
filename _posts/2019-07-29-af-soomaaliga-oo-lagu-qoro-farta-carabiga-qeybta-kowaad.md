@@ -4,6 +4,7 @@ title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
 date: "2019-07-29"
 comments: false
 published: true
+thumnail: /images/sheekh_makaahiil.jpg
 ---
 
 Qoraalkaan wuxuu hordhac u yahay qoraal taxane ah oo aan kusoo bandhigi doono boggeygan. Waxaan uga hadli doonaa sida loo qori jiray af soomaaliga iyadoo la isticmaalayo farta carabiga, inta aan la rasmiyeyn ku qoridda farta laatiinka. Maqaalkan wuxuu ku tiirsanyahay *thesis* aan qoray qeybta hore ee sanadka 2019, Wuxuu ku qoranyahay af-iswiidhish. Waxaan qoray mar aan dhiganayay maadada carabiga oo qayb ka ah machadka suugaanta iyo luqadda ee jaamacadda Gothenburg. Thesis-ka waxaa cinwaankuusu af-iswiidhishku ku yahay *Somaliska med arabisk skrift: en språkhistorisk studie*, af-Ingiriisna ku yahay *Somali with Arabic writing: An historical study of a language*
@@ -38,10 +39,12 @@ Waxaa jiro cod/dhawaqyo dheeraad ah oo ay leeyihiin shibbane iyo shaqal walbo. X
 
 Waxaan baarayaa afar qof qoraalo ay qoreen. Waxaan u kuur galayaa qaabka ay qoreen codadka/foniim-ka soomaaliga ku jiro balse aan carabiga laga heleen. Qoraaladu waa lix xabo oo ay qoreen afar qoraa. 
 
-Qoraaga koowaaad waa Sheekh Uways al-Barawi oo qoray saddex gabay, mid waxaa laga helayaa [Moreno (1955, bogga 364–367)](http://dspace-roma3.caspur.it/bitstream/2307/1509/1/Il%20Somalo%20della%20Somalia.pdf), labada kalena [Cerulli (1964, bogga 128–129)](http://dspace-roma3.caspur.it/bitstream/2307/937/5/Somalia%20III-%20La%20poesia%20dei%20somali%2c%20la%20trib%c3%b9%20somala%2c%20lingua%20somala.pdf). 
+Qoraaga koowaaad waa Sheekh Uways al-Barawi oo qoray saddex gabay, mid waxaa laga helayaa [Moreno (1955, bogga 364–367)](http://dspace-roma3.caspur.it/bitstream/2307/1509/1/Il%20Somalo%20della%20Somalia.pdf), labada kalena [Cerulli (1964, bogga 128–129)](http://dspace-roma3.caspur.it/bitstream/2307/937/5/Somalia%20III-%20La%20poesia%20dei%20somali%2c%20la%20trib%c3%b9%20somala%2c%20lingua%20somala.pdf). ![sheekh Uways](sheekh_uways.jpg)
 
-Qoraaga ku xiga waa J. S. King oo qoray maqaalo taxane ah oo ku soo baxay jariidadda *Indian Antiquary, A journal of oriental research*. Maqaaladan waxaa loogu tala galay saraakiisha gumeystaha ee danaynaya barashada Af-Soomaaliga. 
+Qoraaga ku xiga waa J. S. King oo qoray maqaalo taxane ah oo ku soo baxay jariidadda *Indian Antiquary, A journal of oriental research*. Maqaaladan waxaa loogu tala galay saraakiisha gumeystaha ee danaynaya barashada Af-Soomaaliga. ![Kings](kings.jpg)
 
-Qoraalka kale waa buug lagu magacaabo *انشاء المكاتبات العربية في اللغة الصومالية* ,1932 oo uu qoray Maxamed Cabdi Makaahiil. Buuga hordhaciisu wuxuu ku qoranyahay af carabi lagu sharxayo ujeedka buugga. Waxaa ku qoran shan fariin oo ay isu weydaarsanayaan dad kala deggan Cadan iyo Berbera, sidoo kale waxaa ku qoran diiwaan maahmaahyo ah. Buugga waxaa uu yaalaa Maktabadda jaamacadda Indiana University ee ku taala Maraykanka. Waxaan isagoo dhamaystiran laga heli karaa buugga *Far tasawday: Far Soomaalidii u horreysey ee reer Soomaalilayn*. 
+Qoraalka kale waa buug lagu magacaabo *انشاء المكاتبات العربية في اللغة الصومالية* ,1932 oo uu qoray Maxamed Cabdi Makaahiil. Buuga hordhaciisu wuxuu ku qoranyahay af carabi lagu sharxayo ujeedka buugga. Waxaa ku qoran shan fariin oo ay isu weydaarsanayaan dad kala deggan Cadan iyo Berbera, sidoo kale waxaa ku qoran diiwaan maahmaahyo ah. Buugga waxaa uu yaalaa Maktabadda jaamacadda Indiana University ee ku taala Maraykanka. Waxaan isagoo dhamaystiran laga heli karaa buugga *Far tasawday: Far Soomaalidii u horreysey ee reer Soomaalilayn*. ![Sheekh Makaahiil](/images/sheekh_makaahiil.jpg)
 
-Qoraalka ugu danbeeya wuxuu ka koobanyahay toban maahmaahood, waxaa qoray Muuse Xaaji Ismaaciil Galaal, si uu ugu tusaaleey farta carabiga ee uu ku taliyay in la qaato. lasoco...
+Qoraalka ugu danbeeya wuxuu ka koobanyahay toban maahmaahood, waxaa qoray Muuse Xaaji Ismaaciil Galaal, si uu ugu tusaaleey farta carabiga ee uu ku taliyay in la qaato. ![Galaal](galaal.jpg)
+
+lasoco...
