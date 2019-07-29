@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Buugaagta
 permalink: /buugaag/
 sanadakhris: 
 - 2019
