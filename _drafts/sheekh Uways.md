@@ -2,3 +2,10 @@
 layout: post
 title: Waa kuma Sheekh Uways?
 ---
+
+Sheekh Uways Maxamed wuxuu dhashay 1846/7, waxaana lagu dilay Biyooley, koonfur galbeed, Soomaaliya. Wuxuu safar cilmi raadis ah ku aaday Baqdaad 1872-dii, halkaasoo uu ku bartay dariiqada suufiga ee Qaadiriyya. Soomaaliya ayaa ku soo laabtay 1882, isagoo dib u soo nooleeyay dariiqada Qaadiriya ee Soomaaliya, sidoo kalena aasaasay jameecada Uwaysiyya oo qayb ka ah dariiqada Qaadiriyyaa. Uwaysiyya waxay ku faaftay guud ahaan Bariga Afrika, isagaa safar diin faafin ku maray xeebaha Sawaaxiliga ee badwaynta Hindiya. Tanganyika, Malawi iyo Muzambiiq ayay jameecadiisa ku faaftay, xertiisana faafiyeen risaalada, aasaasayna xarumo diimeed oo Uwaysiyya ku abtirsada [(Mukhtar, 2003, s. 219–221)](https://books.google.se/books/about/Historical_Dictionary_of_Somalia.html?id=DPwOsOcNy5YC&redir_esc=y)
+
+Sheekh Uways wuxuu ku hadli jiray luqada badan, taasoo sahashay faafinta risaaladiisa. Wuxuu qori jiray gabayo diimeed (nabi amaan) oo uu ku tirin jiray luqada badan, sida Carabiga, Soomaali maxaa tiri iyo Soomaali maay (lahjadda digil) iyo Sawaaxiliga. Dadyow kala duwan ayuu fariintiisa gaarsiiyay
+ 
+
+ Sheekh Uways var flerspråkig och hade lättare att förmedla sitt budskap till den breda massan. Han skrev religiösa dikter på skilda språk, bl.a. arabiska, somaliska maay, som talas i södra Somalia, ett område mellan floderna, med digil variationen och stan- dardsomaliska. Han nådde olika grupper i samhället samt andra minoritets språk i södra Somalia exempelvis af-barawani, chimini, och tunni som var hans modersmål (Mukhtar, 2003, s. 220). Senare har han börjat utveckla en skrift för somaliskan som in- spirerats av den arabiska skriften och som swahili dialekten, chimini använder (Lewis, 1958, s. 139–140). Enligt Banafunzi och Vianello (2014, s. 297) sägs det att Sheekh Uways ligger bakom chiminis användning av arabisk skrift. Under sina resor och i kontakt med swahili har han förmodligen influerats att använda arabisk skrift i chimini och soma- liska, eftersom swahili använde arabisk skrift.
