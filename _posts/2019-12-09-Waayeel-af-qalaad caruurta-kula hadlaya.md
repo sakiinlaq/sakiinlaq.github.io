@@ -4,7 +4,7 @@ title: "Waayeel af qalaad caruurta kula hadlaya"
 date: "2019-12-09"
 comments: false
 published: true
-thumbnail: /images/tareen2-molndal.jpg
+thumbnail: /images/tareen2-molndal.jpeg
 ---
 Oday aan ku qiyaasay 65-70 jir ayaa subaxnimo 7:30 horteyda socda. Wuxuu jaabka ka raadinayaa mobeylkiisaa, wuu istaagay, geesaha ayuu fiiriya. Markaasuu wuxuu ku dhahay ’I think I’ve forgotten my mobile’, waxaan u malaynayaa inaan mobaylkayga soo iloobay, labo gabdhood oo da’ yar, oo qiyaastii jira 6 –  8 sano. Ilmihii oo codkoodu hooseeyo ayaa waxaan fahmayay iyagana in ay dhankooda waxay maskaxdooda maagta ka hadlayeen. Warka ayay isku dhiidhiibayeen iyagoo ku hadlaya af Ingiriis. 
 
