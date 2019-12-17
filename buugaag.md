@@ -1,5 +1,6 @@
 ---
 permalink: /buugaag/
+layout: page
 sanadakhris: 
 - 2019
 ---
