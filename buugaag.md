@@ -39,7 +39,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 
 
 {{ buug.author }} ({{ buug.year }}). 
-<i>{{ buug.title }}</i>. <span class="booklang"> {{ buug.lang }}</span><span class="booklink"><a href ="{{ buug.link }}">link </a> </span> 
+<i>{{ buug.title }}</i>. <span class="booklang"> {{ buug.lang }}</span><span class="booklink"><a href ="{{ buug.link }}" target="_blank">link </a> </span> 
 
 
 {% endif %}
