@@ -23,7 +23,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {% if buug.sanadakhris==sanad and buug.akhriyay==false %}
 
 {{ buug.author }} ({{ buug.year }}). 
-<i>{{ buug.title }}</i>. <span class="booklang"> {{ buug.lang }}</span>
+<i>{{ buug.title }}</i>. <span class="booklang"> {{ buug.lang }}</span> <a href ="{{ buug.link }}">link </a>  
 
 
 {% endif %}
