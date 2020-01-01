@@ -11,11 +11,11 @@ sanadakhris:
 
 Olof Lagercrantz wuxuu ku qoray buuggiisa **Om konsten att skriva och läsa**:
 
-*svenska:*
+##svenska:*
 >Vad sker när vi läser? Ögat följer svarta bokstavstecknet på det vita pappret från vänster till höger, åter och åter. Och varelser, natur eller tankar som annan tänkt, nyss eller för tusen år sen stiger fram i vår inbillning...Det finns människor som vi möter i böcker liknar de levande. De talar som vi, andas som vi, gråter och skrattar som vi. Men sträcker vi ut armarna för att omfamna dem griper vi i tomma luften.
-
-*af-Soomaali:*
->Maxaa dhaca marka aan wax akhrinayno? Ishu waxay raacdaa xarafaha madow ee ku qoran warqadda cad, laga bilaabo bidix ilaa midig, mar iyo marar badan. Bahalo, deegaan ama fikirro qof kale fikiray, hadda ama kun sano ka hor ayaa kasoo maaxanaya mala awaalkeenna...Waxaa jira dad aan kula kulmeeno buugaagta oo u eg kuwa nool. Sida annago oo kale ayay u hadlaan, u neefsadaan sideenna. Una ooyaan, oo dhoola caddeeyaan sideenna. Balse hadaan gacmaha kor u qaadno si aan laabta u gelino waxaan qabanaynaa hawo maran.
+>>
+##af-Soomaali:
+Maxaa dhaca marka aan wax akhrinayno? Ishu waxay raacdaa xarafaha madow ee ku qoran warqadda cad, laga bilaabo bidix ilaa midig, mar iyo marar badan. Bahalo, deegaan ama fikirro qof kale fikiray, hadda ama kun sano ka hor ayaa kasoo maaxanaya mala awaalkeenna...Waxaa jira dad aan kula kulmeeno buugaagta oo u eg kuwa nool. Sida annago oo kale ayay u hadlaan, u neefsadaan sideenna. Una ooyaan, oo dhoola caddeeyaan sideenna. Balse hadaan gacmaha kor u qaadno si aan laabta u gelino waxaan qabanaynaa hawo maran.
 
 
 Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay waqtigii lasoo dhaafay.
