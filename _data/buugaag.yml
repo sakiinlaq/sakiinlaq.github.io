@@ -37,10 +37,19 @@
   link: https://books.google.se/books?id=sLfwjwEACAAJ
   sanadakhris: 2019
   akhriyay: false
+
 - title: Om konsten att läsa och skriva 
   author: Olof Lagercrantz 
   lang: Af-Iswiidhish
   year: 1996
   link: https://libris.kb.se/bib/7282324
+  sanadakhris: 2019
+  akhriyay: true
+
+- title: Villa Soomaaliya
+  author:  Bile Hashi
+  lang: Af-Soomaali
+  year: 2018
+  link: http://libris.kb.se/bib/dnpnbfbcbb7d8r9z?vw=full
   sanadakhris: 2019
   akhriyay: true
