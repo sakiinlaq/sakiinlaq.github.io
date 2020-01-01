@@ -23,7 +23,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 
 ## Buugaagta aan hadda akhrinayo:
 {% for sanad in page.sanadakhris %}
-
+{% if sanad == 2020 %}
 <h3>{{ sanad }}</h3>
 
 {% for buug in site.data.buugaag %}
@@ -32,7 +32,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 {{ buug.author }} ({{ buug.year }}). 
 <i>{{ buug.title }}</i>. <span class="buuglang"> {{ buug.lang }}</span> <span class="buuglink"><a href ="{{ buug.link }}" target="_blank">link </a> </span> 
 
-
+{% endif %}
 {% endif %}
 {% endfor %}
 {% endfor %}
