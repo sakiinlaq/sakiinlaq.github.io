@@ -4,10 +4,10 @@ title: "Villa Soomaaliya"
 date: "2020-01-02"
 comments: false
 published: true
-thumbnail: /images/villa-soomaaliay.jpeg
+thumbnail: /images/villa-soomaaliya.jpeg
 ---
 
-[*Villa Soomaaliya*](http://libris.kb.se/bib/dnpnbfbcbb7d8r9z?vw=full) oo uu qoray Bile Hashi ayaan akhriyay badankiisa maalinka ugu dambeysay ee sanadka 2019-ka. Sida magaca laga arki karo wuxuu buugga ku saabsanyahay madaxtooyada iyo weerar lagu soo qaaday villada iyo dowladda Soomaaliya.
+[*Villa Soomaaliya*](http://libris.kb.se/bib/dnpnbfbcbb7d8r9z?vw=full) oo uu qoray [**Bile Hashi**](http://libris.kb.se/hitlist?q=WFRF%3A%28Bile+M.+Hashi+1971+%29&d=libris&m=10&p=1&hist=true&noredirect=true) ayaan akhriyay badankiisa maalinka ugu dambeysay ee sanadka 2019-ka. Sida magaca laga arki karo wuxuu buugga ku saabsanyahay madaxtooyada iyo weerar lagu soo qaaday villada iyo dowladda Soomaaliya.
 
 Buuggan wuxuu soo baxay 2018-da. Wuxuu ku saabsanyahay afgambi dhiig badan ku daatay oo loo geystay dowladda Soomaaliya. Waa buug aad u xiiso badan oo marka aad akhrineysida kugu sii badanayso xiisaha. Waxaad raboonaysaa inaad ogaatid waxa xiga.  
 
