@@ -6,7 +6,7 @@ sanadakhris:
 - 2019
 ---
 
-[al-Jaaxid](https://al-maktaba.org/author/787) al-Kanaani al-Basri (163H - 255H) (780m - 869m) wuxuu ku qoray buugiisa **[kitaab al Xayawaan](https://al-maktaba.org/book/23775)**:
+[al-Jaaxid](https://al-maktaba.org/author/787){:target="_blank"} al-Kanaani al-Basri (163H - 255H) (780m - 869m) wuxuu ku qoray buugiisa **[kitaab al Xayawaan](https://al-maktaba.org/book/23775){:target="_blank"}**:
 >Intee laga helaa saaxiib hurda marka aad hurudo, kula hadla hadba marka aad doontid. [...] ma jiro deris ka wanaagsan, saaxiib ka cadaaladsan, ka taageerid badan, macallin ka daacadsan, buug
 
 Olof Lagercrantz wuxuu ku qoray buuggiisa **Om konsten att skriva och läsa**:
