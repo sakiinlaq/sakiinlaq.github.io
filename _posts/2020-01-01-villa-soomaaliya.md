@@ -11,7 +11,7 @@ published: false
 
 
 Buuggan wuxuu soo baxay 2018-da. 
-Wuxuu ku saabsanyahay
+Wuxuu ku saabsanyahay afgambi dhiig badan ku daateen oo loo geystay dowladda 
 
 Waa buug aad u xiiso badan oo marka aad akhrineysida kugu sii badanayo xiisaha. Waxaad raboonaysaa inaad ogaatid waxa dhacay.
 

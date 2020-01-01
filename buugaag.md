@@ -6,7 +6,7 @@ sanadakhris:
 - 2019
 ---
 
-[al-Jaaxid al-Kanaani al-Basri (159H - 255H) (776m - 868m)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%A7%D8%AD%D8%B8) wuxuu ku qoray buugiisa [kitaab al Xaywaan](https://ar.wikipedia.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86z):
+[al-Jaaxid al-Kanaani al-Basri (159H - 255H) (776m - 868m)](https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D8%A7%D8%AD%D8%B8) wuxuu ku qoray buugiisa **[kitaab al Xaywaan](https://ar.wikipedia.org/wiki/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86z)**:
 >Intee laga helaa saaxiib hurda marka aad hurudo, kula hadla hadba marka aad doontid. [...] ma jiro deris ka wanaagsan, saaxiib ka cadaaladsan, ka taageerid badan, macallin ka daacadsan, buug
 
 Olof Lagercrantz wuxuu ku qoray buuggiisa **Om konsten att skriva och läsa**:
