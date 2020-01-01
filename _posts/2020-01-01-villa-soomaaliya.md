@@ -4,7 +4,7 @@ title: "Villa Soomaaliya"
 date: "2020-01-02"
 comments: false
 published: true
-thumbnail: /images/tareen2-molndal.jpeg
+thumbnail: /images/villa-soomaaliay.jpeg
 ---
 
 *Villa Soomaaliya* oo uu qoray Bile Hashi ayaan akhriyay badankiisa maalinka ugu dambeysay ee sanadka 2019-ka. Sida magaca laga arki karo wuxuu buugga ku saabsanyahay madaxtooyada iyo weerar lagu soo qaaday villada iyo dowladda Soomaaliya.
