@@ -2,8 +2,8 @@
 permalink: /buugaag/
 layout: page
 sanadakhris: 
-- 2019
 - 2020
+- 2019
 ---
 
 Jaaxid wuxuu qoray:
