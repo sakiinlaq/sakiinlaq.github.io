@@ -23,6 +23,7 @@ Halkaan waxaan kusoo bandhigayaa buugaagta aan akhrinayo hadda ama aan akhriyay 
 ## Buugaagta aan hadda akhrinayo:
 {% for sanad in page.sanadakhris %}
 
+
 {% if sanad == 2020 %}
 <h3>{{ sanad }}</h3>
 {% endif %}
