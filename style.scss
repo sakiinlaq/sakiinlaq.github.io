@@ -148,6 +148,14 @@ img {
   font-style: italic;
   color: $gray;
 }
+.thumbnail{
+float: right;
+max-width: 50%; 
+height: auto; 
+margin-left: 15px;
+margin-bottom: 10px;  
+
+}
 
 // Specify the color of the selection
 ::-moz-selection {
