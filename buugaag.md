@@ -1,5 +1,5 @@
 ---
-permalink: /Buugaag/
+permalink: /buugaag/
 layout: page
 sanadakhris: 
 - 2020
