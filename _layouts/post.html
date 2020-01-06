@@ -7,7 +7,9 @@ layout: default
   <div class="date">
     Waxaa la qoray {{ page.date | date: "%e %B %Y" }}
   </div>
-
+<div class="date">
+    Waxaa qoray {{ page.author }}
+</div>
   {% if post.thumbnail %}
         <a href="{{ site.baseurl }}{{ post.url }}">
             <img style="float: right; max-width: 40%; max-height: 200px; margin-left: 15px; margin-bottom: 10px;" src="{{ post.thumbnail }}">
