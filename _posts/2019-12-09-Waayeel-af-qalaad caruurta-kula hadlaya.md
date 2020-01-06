@@ -13,11 +13,11 @@ Goobtu waa jid ku yaal xaafadaha koonaha magaalada Yataboori (Göteborg) ee ajna
 
 Jidka yar waa degaandag, anigoo isleh u carar shaqada ayaa dadaal la’aan waxaaba i caawinaya cufisjiidadka dhulka, oo kala saraynta dhulka ayaa waxaan kusii qadaanqaaday jidyaraha. waxaan la simanahay odayga iyo labadii gabdhood. Dhankooda ayaan fiiriya, madaxa ayaan u luxay. Wuxuu u fahmay inaan ’asalamu Calykum’ ku dhahay, maadaama uu ku warceliyay ’Wa calaykumu salaam’. 
 
-Waan kasii socday, balse waxaan maqlayey cod farxad ka muuqdo, balse ereyada maanan fahmin. Qiyaasteydu waxay tahay in mobaylkiisu uu helay. 
-
+Waan kasii socday, balse waxaan maqlayey cod farxad ka muuqdo, balse ereyada maanan fahmin. Qiyaasteydu waxay tahay in mobaylkiisu uu helay.
 Luqaddii ay ku hadlayeen ma aysan isbedelin, guuxa maskaxdayda ku jirayna isma bedelin ee wuu sii batay.
 Ingiriiska odayga ku hadlayay wuxuu u ekaa mid wayni lagu bartay, ilmaha yarna mid youtube laga bartay. Haddaba afkii hooyo yaa u maqan?
 
 Tareenka ayaan ka degayaa oo goobta shaqada ayaan soo gaaray, howl kale, maalin cusub, isbuuc cusub. Nabadeey!!
 
 ![Taraam](/images/tareen2-molndal.jpeg "Sawir taraam")
+ 
