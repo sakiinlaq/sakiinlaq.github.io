@@ -41,11 +41,16 @@ Waxaa jiro cod/dhawaqyo dheeraad ah oo ay leeyihiin shibbane iyo shaqal walbo. X
 Waxaan baarayaa afar qof qoraalo ay qoreen. Waxaan u kuur galayaa qaabka ay qoreen codadka/foniim-ka soomaaliga ku jiro balse aan carabiga laga heleen. Qoraaladu waa lix xabo oo ay qoreen afar qoraa. 
 
 Qoraaga koowaaad waa Sheekh Uways al-Barawi oo qoray saddex gabay, mid waxaa laga helayaa [Moreno (1955, bogga 364–367)](http://dspace-roma3.caspur.it/bitstream/2307/1509/1/Il%20Somalo%20della%20Somalia.pdf), labada kalena [Cerulli (1964, bogga 128–129)](http://dspace-roma3.caspur.it/bitstream/2307/937/5/Somalia%20III-%20La%20poesia%20dei%20somali%2c%20la%20trib%c3%b9%20somala%2c%20lingua%20somala.pdf). 
+
 ![sheekh Uways](/images/sheekh_uways.jpg)
 
-Qoraaga ku xiga waa J. S. King oo qoray maqaalo taxane ah oo ku soo baxay jariidadda *Indian Antiquary, A journal of oriental research*. [Maqaaladan](http://dspace-roma3.caspur.it/bitstream/2307/2574/1/Somali%20as%20a%20written%20language.pdf) waxaa loogu tala galay saraakiisha gumeystaha ee danaynaya barashada Af-Soomaaliga. ![Kings](/images/king.jpg)
+Qoraaga ku xiga waa J. S. King oo qoray maqaalo taxane ah oo ku soo baxay jariidadda *Indian Antiquary, A journal of oriental research*. [Maqaaladan](http://dspace-roma3.caspur.it/bitstream/2307/2574/1/Somali%20as%20a%20written%20language.pdf) waxaa loogu tala galay saraakiisha gumeystaha ee danaynaya barashada Af-Soomaaliga. 
 
-Qoraalka kale waa buug lagu magacaabo *انشاء المكاتبات العربية في اللغة الصومالية* ,1932 oo uu qoray Maxamed Cabdi Makaahiil. Buuga hordhaciisu wuxuu ku qoranyahay af carabi lagu sharxayo ujeedka buugga. Waxaa ku qoran shan fariin oo ay isu weydaarsanayaan dad kala deggan Cadan iyo Berbera, sidoo kale waxaa ku qoran diiwaan maahmaahyo ah. Buugga waxaa uu yaalaa Maktabadda jaamacadda Indiana University ee ku taala Maraykanka. Waxaan isagoo dhamaystiran laga heli karaa buugga *Far tasawday: Far Soomaalidii u horreysey ee reer Soomaalilayn*. ![Sheekh Makaahiil](/images/sheekh_makaahiil.jpg 'Ooridaydii wanaagsanayd Haban Wacayas...Eebehey ha dhowro')
+![Kings](/images/king.jpg)
+
+Qoraalka kale waa buug lagu magacaabo *انشاء المكاتبات العربية في اللغة الصومالية* ,1932 oo uu qoray Maxamed Cabdi Makaahiil. Buuga hordhaciisu wuxuu ku qoranyahay af carabi lagu sharxayo ujeedka buugga. Waxaa ku qoran shan fariin oo ay isu weydaarsanayaan dad kala deggan Cadan iyo Berbera, sidoo kale waxaa ku qoran diiwaan maahmaahyo ah. Buugga waxaa uu yaalaa Maktabadda jaamacadda Indiana University ee ku taala Maraykanka. Waxaan isagoo dhamaystiran laga heli karaa buugga *Far tasawday: Far Soomaalidii u horreysey ee reer Soomaalilayn*. 
+
+![Sheekh Makaahiil](/images/sheekh_makaahiil.jpg 'Ooridaydii wanaagsanayd Haban Wacayas...Eebehey ha dhowro')
 
 Qoraalka ugu danbeeya wuxuu ku soo baxay maqaal cinwaankiisu yahay [*Arabic script for somali*](http://dspace-roma3.caspur.it/bitstream/2307/5660/1/Arabic%20script%20for%20Somali_Muuse%20H.I.%20Galaal.pdf) oo kusoo baxay joornaalka *Islamic Quarterly*, qoraalka wuxuu ka koobanyahay toban maahmaahood, waxaana qoray Muuse Xaaji Ismaaciil Galaal, si uu ugu tusaaleey farta carabiga ee uu ku taliyay in la qaato. ![Galaal](/images/galaal.jpg)
 
