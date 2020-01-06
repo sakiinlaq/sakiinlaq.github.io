@@ -19,6 +19,4 @@ Luqaddii ay ku hadlayeen ma aysan isbedelin, guuxa maskaxdayda ku jirayna isma b
 Ingiriiska odayga ku hadlayay wuxuu u ekaa mid wayni lagu bartay, ilmaha yarna mid youtube laga bartay. Haddaba afkii hooyo yaa u maqan?
 
 Tareenka ayaan ka degayaa oo goobta shaqada ayaan soo gaaray, howl kale, maalin cusub, isbuuc cusub. Nabadeey!!
-
-![Taraam](/images/tareen2-molndal.jpeg "Sawir taraam")
  
