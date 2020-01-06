@@ -2,7 +2,8 @@
 layout: post
 title: "Villa Soomaaliya"
 date: "2020-01-02"
-comments: false
+author: Axmed Cabdulqaadir
+comments: true
 published: true
 thumbnail: /images/villa-soomaaliya.jpeg
 ---

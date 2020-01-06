@@ -2,7 +2,8 @@
 layout: post
 title: "Af soomaaliga oo lagu qoro farta carabiga, qeybta kowaad"
 date: "2019-07-29"
-comments: false
+author: Axmed Cabdulqaadir
+comments: true
 published: true
 thumbnail: /images/sheekh_makaahiil.jpg
 ---

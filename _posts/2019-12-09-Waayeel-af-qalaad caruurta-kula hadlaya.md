@@ -2,7 +2,8 @@
 layout: post
 title: "Waayeel af qalaad caruurta kula hadlaya"
 date: "2019-12-09"
-comments: false
+author: Axmed Cabdulqaadir
+comments: true
 published: true
 thumbnail: /images/tareen2-molndal.jpeg
 ---

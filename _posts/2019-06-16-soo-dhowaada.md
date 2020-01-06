@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Soo dhowaada
+author: Axmed Cabdulqaadir
 date: 2019-06-16
 comments: false
 ---
