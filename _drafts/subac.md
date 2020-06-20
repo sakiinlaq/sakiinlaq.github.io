@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Subac"
+date: "2020-06-20"
+author: Axmed Cabdulqaadir
+comments: true
+published: true
+thumbnail: /images/subac.jpeg
+---
+
+
+Mararka qaar wax aad horey  isu waydiisay oo aad jawaab u la'ayd ayaa si lama filaan ah u fahantaa iyadoo aan cid ku fahamsiin. Facebook anigoo iska daalacanaya bogga jamciyadda quraanka ee al Manaabir ayaa waxaan daawaday [video uu macallin Maxbuub Siidow Cabdullaahi](https://www.facebook.com/AlmanabirQuraniyah/videos/294849888322423/), oo wiil dhalinyar ah kaga hadlayo quraanka. Wuxuu qaybta hore ku sharxayaa sida quraanka loo khatimo oo la subciyo. Wuxuu sharxaya subaca sida ay Soomaalida u khatimaan isbuucii, wuxuu kaloo sharxayaa sida muslimiintii hore aan Soomaalida ahayn ay u khatimi jireen, taasoo ka duwan midda Soomaalida. 
+
+
+![s](/images/macallin-Maxbuub.png)
+
+
+Wuxuu macallinka khayar Allah ha siiyee sharxayaa in quraanka lagu soo khatimo 7 maalmood, sidaa darteed quraanka waxaa waxaa loo qaybiyay 7 qaybooad, *jallaad*. Qayb/jallaad walbana wuxuu leeyahay magac, waana magaca maalmaha isbuuca. Subaca ama jallaadka ugu horeeyo waxaa la yiraahda subac/jallaad Jimco. Wuxuuna ka bilowdaa suuradda ugu horeysa ee Faatixa. Kan ugu dambeeyana waxaa la yiraahdaa Khamiis oo waa kan qur'aanka lagu soo khatimo. Jadwalkan hoose ka eeg jallaad walba aayadda uu ka bilowdo iyo midka uu ku dhamaado. Aayad walbaa waxay u qorantahay **S:A**, S: waa suuradda lambarkeed, halka A: ay ka tahay aayadda lambarkeeda, tusaale 4:62 waa suuradda 4aad, aayadeeda 62aad.
+
+
+
+|Jallaad|Bilow 	|Dhamaad|
+|:---	|:---	|:---	|
+|Jimco	|[1:1](https://quran.com/1/1)		|[4:61](https://quran.com/4/61)	 |
+|Sabti	|[4:62](https://quran.com/4/62)		|[7:170](https://quran.com/7/170)|
+|Axad	|[7:171](https://quran.com/7/171)	|[14:25](https://quran.com/14/25)|
+|Isniin	|[14:26](https://quran.com/14/26)	|[23:55](https://quran.com/23/55)|
+|Talaado|[23:56](https://quran.com/23/56)	|[34:19](https://quran.com/34/19)|
+|Arbaco	|[34:20](https://quran.com/34/20)	|[48:29](https://quran.com/48/29)|
+|Khamiis|[49:1](https://quran.com/49/1)		|[114:6](https://quran.com/114/6)|
+
+
+Macallin Xabiib wuxuu kaloo sharxayaa in culimadii hore ee muslimiinta ay iyagana lahaayeen qaab ay quraanka u khatimaan isbuucii. Iyagana sidoo kale waxay quraanka u qaybin jireen 7 qaybood oo ku aaddan maalmaha todobaadka. Waxay adeegsan jireen labo eray oo todobo xaraf ka kooban. Xarf kastaa wuxuu u taaganyahay bilowga jallaad. Waxaa jirto in ay ka bilaabi jireen maalinta Sabtida, halka ay Soomaalida Jimcaha kaga bilaabaan. Si loo xasuusto meesha jallaadka laga bilaabayo waxaa la adeegsan jiray labadan erey "فمي بشوق", xaraf walba wuxuu u taaganyahay bilowga suuradda lagu bilaabayo jalaaadka.
+
+
+|Jallaad|Xaraf|bilow 	|Dhamaad|
+|:---	|:---|:---	|:---	|
+|Sabti|ف|1الفاتحة|النسا	ء	4|
+|Axad	|م|5 المائدة	|التوبة	   9|
+|Isniin	|ي|10 يونس		|	النحل	16|
+|Talaado|ب|17 الإسراء	|الفرقان	25|
+|Arbaco	|ش|26الشعراء		|	 يس   36| 
+|Khamiis|و|37الصافات	|	 الحجرات		49	|
+|Jimco	|ق|50 ق			|	الناس    114|
+
+> Ereyga "subac" in todobo laga soo dhiraan dhiriyay ayaa waxaan ka ogaaday qaybinta toddobada qayb iyo ku jaangooynta maalmaha isbuuca.
+
+Qaacidada ayaan google-gareeyay, [videogii](https://www.youtube.com/watch?v=SaYGywS9EQE) iigu horeeyay ayaa wadaad wuxuu af carabi ku sharxayaa qaabka 7 maalmood qur'aanka loogu khatimi karo oo ay samayn jireen culimadii hore. Wuxuu yiri "Yusabbicul qur'aan, As-salaf yakhtumuun fii isbuuc". "" BUUUM. Meeshaas ayaan waxaan ka fahmay in ereyga *subac* asalkiisu yahay, *sabca, yusabicu, subac*, in quraanka todobo maalmood lagu akhriyo. Inkastoo micnaha subac ee af Soomaaliga uu maanta is bedalay oo maanta waxaa subac la yiraahda in koox quraanka lagu akhriyo. Ilamahan in ay jirto xer ama arday jallaadka Axad akhriso maalinka Axadda, oo waxay u badantahay in aan laga fikirayn maalinka la joogo si loo akhriyo jallaadka ku aadan maalinkaas.
