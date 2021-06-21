@@ -80,6 +80,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate'
   - jekyll-remote-theme
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -88,4 +89,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: "ngzhio/jekyll-theme-hamilton"
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
