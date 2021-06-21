@@ -78,8 +78,9 @@ gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
-  - jekyll-paginate'
+  - jekyll-paginate
   - jekyll-remote-theme
+  - github-pages
 
 # Exclude these files from your production _site
 exclude:
@@ -89,4 +90,4 @@ exclude:
   - README.md
   - CNAME
 
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+remote_theme: "gaalcaras/academic"
