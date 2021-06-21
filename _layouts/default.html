@@ -27,13 +27,12 @@
           </div>
 
           <nav>
-             {% for item in site.data.navigation %}
-             <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
-              {{ item.name }}
-            </a>
-            {% endfor %}
-
-           
+             
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/buugaag">Buugaag</a>
+            <a href="{{ site.baseurl }}/tags">Tags</a>
+            <a href="{{ site.baseurl }}/year">year</a>
           </nav>
         </header>
       </div>
