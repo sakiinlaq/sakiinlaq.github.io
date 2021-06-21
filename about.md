@@ -5,10 +5,9 @@ permalink: /about/
 ---
 
 ### Waa kuma Axmed?
-Axmed Cabdulqaadir, ku dhashay Muqdisho. Waxaan aabo u ahay wiil, Khaalid iyo gabar Khuluud. Sidoo kale waxaan ahay arday (afcilmiyeedka iyo IT) iyo macallin.
-
+Waxaan ahay arday daneeya af cilmiyeedka, inta aan u maleeyo in aan fahmay ayaan jeclahay inaan ku soo qoro boggan.
 Buugaagta aan akhriyay/akhrinayo [halkan](https://sakiinlaq.github.io/buugaag/) kala soco
 
-### Ila soo xiriir
+### Igala soo xiriir
 
 sakiinlaq at gmail.com
