@@ -1,6 +1,6 @@
 ---
 title: Soo dhowoow
-date: 2023-06-12
+date: 2023-06-1
 categories: 
 tags: 
 ---
