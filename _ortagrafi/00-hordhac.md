@@ -82,4 +82,3 @@ Shibbanayaasha labanlaabka ah waxay door muhiim ah ka ciyaaraan macnaha ereyga S
 - Xarafka ugu horeeya ee magacyada gaarka ah waa inuu noqdaa mid weyn
 - Xarafka ugu horeeya ee qoraalka cusub waa inuu noqdaa mid weyn
 - Magacyada meelaha, dadka, iyo biyaha waaweyn waxay ku bilaabmaan xaraf weyn
-
