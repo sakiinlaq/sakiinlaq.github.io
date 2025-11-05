@@ -85,6 +85,27 @@ defaults:
       layout: single
       author_profile: true
   - scope:
+      path: "_tjanster"
+      type: tjanster
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  - scope:
+      path: "_adeegyada"
+      type: adeegyada
+    values: 
+      layout: single
+      author_profile: true
+      share: false
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values: 
+      layout: splash
+      author_profile: true
+      share: false
+  - scope:
       path: "_korbus"
       type: korbus
     values:
