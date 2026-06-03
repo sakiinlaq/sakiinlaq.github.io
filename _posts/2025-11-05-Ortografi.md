@@ -2,6 +2,7 @@
 title: "Xarfaha (codadka) labanlaabma iyo qoriddooda"
 toc: true
 last_modified_at: 2025-11-09T16:20:02-05:00
+published: false
 categories:
   - Ortagrafi
 tags:

@@ -1,9 +1,64 @@
 main:
-  - title: "Posts"
+  - title: "Qoraallo"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Buugaag"
+    url: /buugaag/
+  - title: "Years"
+    url: /years/
   - title: "About"
     url: /about/
+
+korbus:
+  - title: Hordhac
+    children:
+      - title: "Hordhac"
+        url: /korbus/hordhac/
+      - title: "Hordhac 1"
+        url: /korbus/hordhac1/
+      - title: "Hordhac 2"
+        url: /korbus/hordhac2/
+      - title: "Hordhac 3"
+        url: /korbus/hordhac3/
+      - title: "Hordhac 4"
+        url: /korbus/hordhac4/
+  - title: Habit
+    children:
+      - title: "Habit"
+        url: /korbus/habit/
+      - title: "Habit 1"
+        url: /korbus/habit1/
+      - title: "Habit 2"
+        url: /korbus/habit2/
+      - title: "Habit 3"
+        url: /korbus/habit3/
+      - title: "Habit 4"
+        url: /korbus/habit4/
+  - title: Korp
+    children:
+      - title: "Korp"
+        url: /korbus/korp/
+      - title: "Korp 1"
+        url: /korbus/hordhac1/
+      - title: "Korp 2"
+        url: /korbus/hordhac2/
+      - title: "Korp 3"
+        url: /korbus/hordhac3/
+      - title: "Korp 4"
+        url: /korbus/hordhac4/
+
+
+ortagrafi:  
+- title: Hordhac
+  url: /ortagrafi/
+  children:
+      - title: "Hordhac"
+        url: /ortagrafi/hordhac/
+- title: "morfooloji"
+  children:
+    - title: "morfooloji"
+      url: /ortagrafi/mofooloji/
+- title: "isbeddelka codka"

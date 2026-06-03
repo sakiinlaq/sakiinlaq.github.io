@@ -1,24 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Axmed Cabdulqaadir Sheikh
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Waxaan ahay qoraa, waxaanan ku noolahay magaalada Göteborg ee dalka Sweden. Waxaan qorayaa maqaallo ku saabsan arrimaha bulshada, dhaqanka, iyo luqadda , gaar ahaan kuwa saameeya Soomaalida iyo iyo af Soomaaliga.
 twitter_username: sakiinlaq
 minimal_mistakes_skin: default
 search: true
@@ -100,6 +84,33 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_korbus"
+      type: korbus
+    values:
+      layout: collection
+      author_profile: false
+      share: false
+      sidebar:
+        nav: "korbus"
+  - scope:
+      type: ortagrafi
+    values:
+      layout: collection
+      classes: wide
+      author_profile: true
+      sidebar:
+       nav: "ortagrafi"
+
+#_Collections
+collections:
+  korbus:
+    output: true
+    permalink: /:collection/:path/
+  ortagrafi:
+    output: true
+    permalink: /:collection/:path/
+
 
 category_archive:
   type: liquid
