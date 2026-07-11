@@ -7,6 +7,11 @@ twitter_username: sakiinlaq
 minimal_mistakes_skin: default
 search: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-CPCWK3E46V"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
