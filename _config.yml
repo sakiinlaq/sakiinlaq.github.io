@@ -105,33 +105,6 @@ defaults:
       layout: splash
       author_profile: true
       share: false
-  - scope:
-      path: "_korbus"
-      type: korbus
-    values:
-      layout: collection
-      author_profile: false
-      share: false
-      sidebar:
-        nav: "korbus"
-  - scope:
-      type: ortagrafi
-    values:
-      layout: collection
-      classes: wide
-      author_profile: true
-      sidebar:
-       nav: "ortagrafi"
-
-#_Collections
-collections:
-  korbus:
-    output: true
-    permalink: /:collection/:path/
-  ortagrafi:
-    output: true
-    permalink: /:collection/:path/
-
 
 category_archive:
   type: liquid

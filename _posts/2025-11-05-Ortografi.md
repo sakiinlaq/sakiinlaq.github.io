@@ -12,9 +12,10 @@ tags:
 ---
 
 
-Waxaa lagu taliyay in toddobo xaraf oo af Soomaaliga ka mid ah la labanlaabo. Waxayna kala yihiin: **d g  n m b l r**.
+Waxaa lagu taliyay in toddobo xaraf oo af Soomaaliga ka mid ah loo qoro si labalaaban. Waxayna kala yihiin: 
+> **b d g  n m  l r**
 
-Balse qoraallo badi la qoro waxaa ku badan qaladka.Maqaalkan waxaan rabaa in aan ku bayaamiyo xaaladaha ay dadka qaar shakin karaan iyo sida ay iskaga saari karaan shakiga.
+Qaladaadka ugu badan ee la galo waxay badi xiriir la leeyihiin laballaabka qoraallada. Maqaalkan waxaan rabaa in aan ku bayaamiyo xaaladaha ay dadka qaar shakin karaan iyo sida ay iskaga saari karaan shakiga.
 
 ## Labanlaabka xarafka \<d\>
 Ereyada xarafka \<d\> ku dhammaada haddii ay raacayaan dibkabe, ha aheedeen mid naxweed ama mid ereyabuureed oo ku bilowda codka ama xarafka d ama t waa in la labanlaabo. Tusaale
