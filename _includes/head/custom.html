@@ -3,5 +3,52 @@
   body, .page__content, .page__title, .archive__item-title, .masthead, .greedy-nav {
     font-family: ui-monospace, "Cascadia Code", "Source Code Pro", Menlo, Consolas, "DejaVu Sans Mono", monospace;
   }
+  #theme-toggle {
+    position: fixed; top: 14px; right: 14px; z-index: 999;
+    width: 2.3em; height: 2.3em; border-radius: 50%;
+    border: 1px solid currentColor; background: rgba(128,128,128,.08); color: inherit;
+    cursor: pointer; font-size: 1rem; display: flex; align-items: center; justify-content: center;
+    opacity: .75; transition: opacity .15s ease;
+  }
+  #theme-toggle:hover { opacity: 1; }
 </style>
+<script>
+(function () {
+  var STORAGE_KEY = "kayd-blog-theme";
+  var darkLink = document.createElement("link");
+  darkLink.rel = "stylesheet";
+  darkLink.href = "{{ '/assets/css/dark.css' | relative_url }}";
+  darkLink.id = "dark-skin-link";
+  document.head.appendChild(darkLink);
+
+  function preferred() {
+    var saved = localStorage.getItem(STORAGE_KEY);
+    if (saved === "light" || saved === "dark") return saved;
+    return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  }
+
+  var current = preferred();
+
+  function apply(theme) {
+    darkLink.disabled = theme !== "dark";
+    localStorage.setItem(STORAGE_KEY, theme);
+    current = theme;
+  }
+
+  apply(current);
+
+  document.addEventListener("DOMContentLoaded", function () {
+    var btn = document.createElement("button");
+    btn.id = "theme-toggle";
+    btn.type = "button";
+    btn.setAttribute("aria-label", "Växla ljust/mörkt läge");
+    btn.textContent = current === "dark" ? "☀" : "☾";
+    btn.addEventListener("click", function () {
+      apply(current === "dark" ? "light" : "dark");
+      btn.textContent = current === "dark" ? "☀" : "☾";
+    });
+    document.body.appendChild(btn);
+  });
+})();
+</script>
 <!-- end custom head snippets -->

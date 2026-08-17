@@ -4,7 +4,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   Waxaan ahay qoraa, waxaanan ku noolahay magaalada Göteborg ee dalka Sweden. Waxaan qorayaa maqaallo ku saabsan arrimaha bulshada, dhaqanka, iyo luqadda, gaar ahaan kuwa saameeya Soomaalida iyo af Soomaaliga.
 twitter_username: sakiinlaq
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
