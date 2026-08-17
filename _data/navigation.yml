@@ -1,5 +1,7 @@
 main:
   - title: "Qoraallo"
     url: /posts/
+  - title: "Kayd"
+    url: https://kayd.sakiinlaq.com/
   - title: "About"
     url: /about/
